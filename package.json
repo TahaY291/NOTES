@@ -1,0 +1,23 @@
+{
+  "name": "Scrim-s0m07b81mv",
+  "description": "https://v2.scrimba.com/learn-react-c0e/~04a",
+  "scripts": {
+    "watch": "webpack -w",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-mde": "11.5.0",
+    "showdown": "1.9.1",
+    "react-split": "2.0.13",
+    "nanoid": "3.1.28",
+    "webpack": "^2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0",
+    "babel-loader": "^7.0",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*"
+  }
+}
